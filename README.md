@@ -9,10 +9,15 @@ Lesson1 - Canvas: Drawing Using Paths webapp.
 ## Getting Started
 
 ### Step 1
-Locate and open the "default.html" file.
+Start with one of the options below.
 
-Alternatively, open the solution in Visual Studio and 
+#### Option 1
+Open the solution in Visual Studio and 
 press "F5" to run the webapp.
+
+#### Option 2
+Select the following GitHub Pages link.
+https://git4m2.github.io/MCSD_70-480_Chpt12_Lesson1-Canvas_DrawingUsingPaths/DrawingUsingPaths/default.html
 
 You should see multiple buttons within a canvas on the webpage.
 Each button displays a different example of canvas capabilities.
